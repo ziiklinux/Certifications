@@ -4,6 +4,7 @@ DevOps Certifications
 
 #  Certificações
 > **AZ-104** https://www.credly.com/badges/aa64f70d-443e-47de-a2a1-a0d1e3a041b4?source=linked_in_profile
+> 
 >![](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 
 > **AWS Certified Cloud Practitioner**  https://www.credly.com/badges/cd4c46fa-a76f-4671-9b41-c43cfdf3d490/linked_in_profile
