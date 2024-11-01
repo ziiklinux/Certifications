@@ -25,5 +25,5 @@ DevOps Certifications
 > 
 > **LFS169: Introduction to GitOps** https://www.credly.com/badges/8a4d5b24-1063-4075-be0e-c1cb90dd2624?source=linked_in_profile
 > 
-> ![](https://images.credly.com/size/340x340/images/5426612d-4ded-4408-bfaa-dbe3210f9cf9/LF_logobadge.png)
+> ![](https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)
 > 
