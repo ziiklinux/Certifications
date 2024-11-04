@@ -21,7 +21,7 @@ DevOps Certifications
 > 
 > **Mutirão DevOps** https://www.credential.net/b73a3aff-3313-4eb8-959e-7ddbb439956f#gs.sm6w98
 > 
-> ![](https://static.wixstatic.com/media/87b279_76e74ffbd86e43f8a93aa25f9f403879~mv2.png/v1/fill/w_654,h_529,al_c,lg_1,usm_0.33_1.00_0.00/87b279_76e74ffbd86e43f8a93aa25f9f403879~mv2.png)
+> ![](https://static.wixstatic.com/media/87b279_76e74ffbd86e43f8a93aa25f9f403879~mv2.png/v1/fill/w_654,h_529,al_c,lg_1,usm_0.33_1.00_0.00/87b279_76e74ffbd86e43f8a93aa25f9f403879~mv2.png) width="36" height="36"
 > 
 > **LFS169: Introduction to GitOps** https://www.credly.com/badges/8a4d5b24-1063-4075-be0e-c1cb90dd2624?source=linked_in_profile
 > 
