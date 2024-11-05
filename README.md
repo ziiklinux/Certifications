@@ -6,7 +6,7 @@
 
 > **SC-900**  
 > [https://learn.microsoft.com/pt-br/users/ziiklinux/credentials/2199830d5baecc96](https://learn.microsoft.com/pt-br/users/ziiklinux/credentials/2199830d5baecc96)  
-> <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="SC-900" width="144" height="144">
+> <img src="https://idesp.com.br/wp-content/uploads/2023/03/SC900.png" alt="SC-900" width="144" height="144">
 
 > **AWS Certified Cloud Practitioner**  
 > [https://www.credly.com/badges/cd4c46fa-a76f-4671-9b41-c43cfdf3d490/linked_in_profile](https://www.credly.com/badges/cd4c46fa-a76f-4671-9b41-c43cfdf3d490/linked_in_profile)  
@@ -14,7 +14,7 @@
 
 > **Uncomplicating Docker**  
 > [https://www.credential.net/870ba31e-d6b3-49bb-9dfe-1c3f108819fe](https://www.credential.net/870ba31e-d6b3-49bb-9dfe-1c3f108819fe)  
-> <img src="https://static.wixstatic.com/media/87b279_76e74ffbd86e43f8a93aa25f9f403879~mv2.png/v1/fill/w_654,h_529,al_c,lg_1,usm_0.33_1.00_0.00/87b279_76e74ffbd86e43f8a93aa25f9f403879~mv2.png" alt="Uncomplicating Docker" width="144" height="144">
+> <img src="https://images.credential.net/badge/tiny/9ai91xob_1730770136400_badge.png" alt="Uncomplicating Docker" width="144" height="144">
 
 > **Mutirão DevOps**  
 > [https://www.credential.net/b73a3aff-3313-4eb8-959e-7ddbb439956f#gs.sm6w98](https://www.credential.net/b73a3aff-3313-4eb8-959e-7ddbb439956f#gs.sm6w98)  
